@@ -19,3 +19,8 @@ I am a CLoud/Devops Engineer from Bengaluru, INDIA
 <img align="left" alt="Datadog" src="https://img.shields.io/badge/Datadog%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 <br>
 <br>
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+ 
+<!-- BLOG-POST-LIST:END -->
