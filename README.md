@@ -12,9 +12,8 @@ I am a CLoud/Devops Engineer from Bengaluru, INDIA
 <br>
 <br>
 ## Expertise
-<img align="left" alt="AWS" src="https://img.shields.io/badge/AWS%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="Devops" src="https://img.shields.io/badge/Devops%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="Azure" src="https://img.shields.io/badge/Azure%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+<img align="left" alt="AWS" src="https://img.shields.io/badge/%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 <img align="left" alt="Docker" src="https://img.shields.io/badge/Docker-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="left" alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 <img align="left" alt="Datadog" src="https://img.shields.io/badge/Datadog%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
