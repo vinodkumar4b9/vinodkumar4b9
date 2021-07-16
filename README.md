@@ -22,9 +22,9 @@ I am a CLoud/Devops Engineer from Bengaluru, INDIA
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sonarqube Enterprise setup on Ec2 with RDS](https://towardsaws.com/sonarqube-enterprise-setup-on-ec2-with-rds-2fe32f394a47?source=rss-7a3640febca1------2)
+- [Sonarqube Setup on Ec2 with Rds.](https://towardsaws.com/sonarqube-setup-on-ec2-with-rds-fbc133c22713?source=rss-7a3640febca1------2)
 - [How I passed AWS Security Specialty](https://towardsaws.com/my-path-to-aws-security-specialty-7c3a35fff79a?source=rss-7a3640febca1------2)
 - [AWS APP Runner](https://towardsaws.com/aws-app-runner-6d372e54c51?source=rss-7a3640febca1------2)
 - [Cloud watch Alarm for Ec2 Memory Utilization](https://vinod4b9.medium.com/cloud-watch-alarm-for-ec2-memory-utilization-5338d7c04620?source=rss-7a3640febca1------2)
-- [AWS Ec2 Memory Utilization](https://towardsaws.com/aws-ec2-memory-utilization-7c5b272b9679?source=rss-7a3640febca1------2)
-- [AWS Lambda Code Signing](https://towardsaws.com/aws-lambda-code-signing-46646599586c?source=rss-7a3640febca1------2)
 <!-- BLOG-POST-LIST:END -->
